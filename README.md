@@ -10,4 +10,4 @@ in their Paper 'Reducing the Number of Training Samples for Fast Support Vector 
 For visualizing the outcomes more practically, it's peformance on Iris dataset has also been implemented, 
 and results were quite wonderfull as expected.
 
-You can find paper at https://pdfs.semanticscholar.org/8530/7b7ac9c559537b6e43ef024888050512a10f.pdf .
+You can find the paper at https://pdfs.semanticscholar.org/8530/7b7ac9c559537b6e43ef024888050512a10f.pdf .
