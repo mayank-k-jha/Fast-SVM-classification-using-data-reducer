@@ -1,7 +1,7 @@
 # Fast-SVM-classification-using-data-reducer
 Reducing the Number of Training Samples for Fast Support Vector Machine Classification python implementation.
 
-This repo implements the algorithm proposed by
+This repository provides the python implementation of the algorithm proposed by
 @reference  Ravindra Koggalage and Saman Halgamuge
 Department of Mechanical and Manufacturing Engineering, The University of Melbourne
 Parkville, Victoria 3010, Australia
